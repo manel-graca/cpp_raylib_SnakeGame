@@ -1,0 +1,3 @@
+C:/Users/manue/Documents/Coding Projects/C++/rlibSnakeGame/build/CMakeFiles/rlibSnakeGame.dir
+C:/Users/manue/Documents/Coding Projects/C++/rlibSnakeGame/build/CMakeFiles/edit_cache.dir
+C:/Users/manue/Documents/Coding Projects/C++/rlibSnakeGame/build/CMakeFiles/rebuild_cache.dir
