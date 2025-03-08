@@ -31,11 +31,25 @@
 *.out
 *.app
 
-.idea/
-.vscode/
-.vs/
-cmake-build-debug/
-bin/
-build/
-out/
-CMakeSettings.json
+# Ignore build directories
+/build/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+*.clang-format
+compile_commands.json
+
+# vcpkg directories (if they are within your project)
+/vcpkg_installed/
+/vcpkg_downloads/
+
+# Exclude temporary or log files
+*.log
+*.tmp
+
+/.cache/
+/out/
