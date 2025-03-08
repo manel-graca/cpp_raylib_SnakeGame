@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/manue/Documents/Coding Projects/C++/rlibSnakeGame/out/build/rlibSnakeGame",
-  "command": "C:\\Users\\manue\\mingw64\\bin\\c++.exe -isystem \"C:/Users/manue/Documents/Coding Projects/C++/rlibSnakeGame/out/build/rlibSnakeGame/vcpkg_installed/x64-windows/include\" -g -o CMakeFiles\\rlibSnakeGame.dir\\main.cpp.obj -c \"C:\\Users\\manue\\Documents\\Coding Projects\\C++\\rlibSnakeGame\\main.cpp\"",
-  "file": "C:\\Users\\manue\\Documents\\Coding Projects\\C++\\rlibSnakeGame\\main.cpp",
-  "output": "CMakeFiles\\rlibSnakeGame.dir\\main.cpp.obj"
-}
-]

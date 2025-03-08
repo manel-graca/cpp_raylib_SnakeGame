@@ -1,8 +1,0 @@
-{
-    "name": "rlibsnakegame",
-    "description": "rlibSnakeGame",
-    "license": "MIT",
-    "dependencies": [
-        "raylib"
-    ]
-}
