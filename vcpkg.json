@@ -1,6 +1,6 @@
 {
-    "name": "rlibsnakegame",
-    "description": "rlibSnakeGame",
+    "name": "cpp-rlib-snake",
+    "description": "cpp-rlib-snake",
     "license": "MIT",
     "dependencies": [
         "raylib"
